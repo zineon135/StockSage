@@ -1,0 +1,4 @@
+-r requirements.txt
+scipy>=1.13
+matplotlib>=3.9
+torch>=2.3
